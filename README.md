@@ -120,6 +120,13 @@ Aprender o básico sobre contribuição no GitHub.
 9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
 10. Crea un **Pull Request**.
 
+### Exemplos e Inspirações
+
+Para se inspirar e visualizar exemplos de perfis de README bem feitos, você pode conferir o seguinte exemplo:
+
+- [Exemplo de "fork" - Dev. falvojr](https://github.com/falvojr/dio-lab-open-source)
+
+
 ### Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
